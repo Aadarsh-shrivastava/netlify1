@@ -29,7 +29,7 @@ export default function Footer() {
           <p>www.facebook.com/cripumps</p>
         </div>
       </a>
-      <a href="https://www.cripumps.com/">
+      <a href="https://www.crigroups.com/">
         <div className="foot">
           <img className="svg" alt="phone" src={web}></img>
           <p>www.cripumps.com</p>
